@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/eu-ctis",
   "title": "Eu Ctis",
   "description": "EU CTIS MCP — the Clinical Trials Information System, the EU's public register",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "websiteUrl": "https://pipeworx.io/packs/eu-ctis",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-eu-ctis",
