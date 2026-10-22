@@ -1,7 +1,7 @@
 {
   "name": "@pipeworx/mcp-eu-ctis",
-  "version": "0.1.2",
-  "description": "EU CTIS MCP — the Clinical Trials Information System, the EU's public register",
+  "version": "0.1.3",
+  "description": "EU CTIS MCP — the Clinical Trials Information System, the EU's public register of clinical trials authorised under Regulation 536/2014.",
   "type": "module",
   "main": "src/index.ts",
   "types": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-4052526088666202b6684ce605d32afec63e8f9710f4148a02c86d44a91e4d38",
-    "sourceCommit": "4fa4c64448be06f4a2ee4cee19f756f3558a7cad"
+    "sourceHash": "v1-2f434aafce3b5a15636411836bf422ba0e9fe6eadd94ebaade459a1c2b15510b",
+    "sourceCommit": "712a5e0171ea24483214329d0cd7efdfd9b80352"
   }
 }
